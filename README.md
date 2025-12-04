@@ -1,5 +1,5 @@
 
-📜 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes. Nota: O dataset utilizado pertence à Olist e foi obtido publicamente no Kaggle. Os direitos sobre os dados permanecem com a Olist
+📜 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes. Nota: O dataset utilizado pertence à Olist e foi obtido publicamente no Kaggle. Os direitos sobre os dados permanecem com a Olist [Acesso a fonte de dados original](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 📌 Contém os códigos em Python desenvolvidos para etapa de Data Cleaning. Os Scripts desenvolvidos no Mysql para consulta dos dados do banco. O arquivo do dashboard do Tableau utilizado para visulizar os dados trabalhados.
 
